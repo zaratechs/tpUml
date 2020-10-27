@@ -1,0 +1,2 @@
+export classe Produit{
+}
